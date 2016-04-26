@@ -1,0 +1,5 @@
+liac-arff>=2.1.0
+matplotlib>=1.5.1
+NumPy>=1.6.1
+SciPy>=0.9
+scikit-learn>=0.17.1
